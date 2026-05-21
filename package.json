@@ -1,0 +1,12 @@
+{
+  "name": "backstage-monorepe",
+"private": true,
+  "scripts": {
+    "dev": "pnpm -r --parallel dev",
+     "build": "pnpm -r build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.31.0"
+}
